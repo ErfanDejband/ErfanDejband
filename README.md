@@ -8,7 +8,7 @@
       .
 - 🌱 I’m currently learning C programing, html, and pyhton
 - 💞️ if oyu are intersted out (Using Deep Learning to inverse design Metamaterials and Metasurfaces) i would be happy to collaborate.
-- 📫 you want to reach me? then email me e.dejband@gmail.com
+- 📫 you want to reach me? then you can check my website: https://erfandejband.github.io/
 
 <!---
 ErfanDejband/ErfanDejband is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
