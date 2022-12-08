@@ -1,5 +1,5 @@
 - 👋 Hi, I’m <b>Erfan Dejband</b>
-- 👀 I’m interested in Using AI in the Electronic application such as:
+- 👀 I’m interested in Using AI in the Electronic applications such as:
 
       Using Deep Learning to inverse design Metamaterials and Metasurfaces
       
