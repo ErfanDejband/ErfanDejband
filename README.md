@@ -3,7 +3,7 @@
 </a>
 
 </br>
- <img width="400px" align="right" src="https://cdn.tomondre.com/this-is-fine.jpg" />
+ <img width="400px" align="right" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3q2in0p0obY3ujkg_utV3v5nx824Eckeicw&usqp=CAU" />
   <h2>⚡️ A Few Quick Facts</h2>
   <ul>
     <li>🧐 Studying Electrical Engineer and Computer Science in NTUT.</li>
@@ -20,6 +20,7 @@
 </br>
 </br>
 
-- 💞️ If you are intersted on **Using Deep Learning to inverse design Metamaterials and Metasurfaces** i would be happy to collaborate.
-
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![FBG-Sensor](https://img.shields.io/badge/-FBG%20Sensors-green?style=for-the-badge&logo=OPNSense&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)  ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) 
+
+
+💞️ If you are intersted on **Using Deep Learning to inverse design Metamaterials and Metasurfaces** i would be happy to collaborate.
