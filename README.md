@@ -1,6 +1,6 @@
 <a href="https://www.linkedin.com/in/erfan-dejband/">
-  <img align="left" alt="Erfan Dejband LinkedIn" width="22px" src="https://cdn.tomondre.com/icons/linkedinn.svg" />
-  <img align="left" alt="Erfan Dejband LinkedIn" width="33px"  src="https://cdn-icons-png.flaticon.com/512/1147/1147080.png" />
+  <img align="left" alt="Erfan Dejband LinkedIn" width="22px" style="vertical-align:middle" src="https://cdn.tomondre.com/icons/linkedinn.svg" />
+  <img align="left" alt="Erfan Dejband LinkedIn" width="33px" style="vertical-align:middle" src="https://cdn-icons-png.flaticon.com/512/1147/1147080.png" />
 </a>
 
 </br>
