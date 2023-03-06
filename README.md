@@ -13,10 +13,11 @@
     <li>📝 I am often active on <a href="https://www.linkedin.com/in/erfan-dejband/">LinkedIn</a>.</li>
     <li>👀 I am interested in Using AI in different applications such as:
          <br>   - Using deep learning in Optic Fiber Sensors systems
+         <br>   - Using deep learning to inverse design Metasurfaces 
+    <li>💜 Also intersed in:
          <br>   - Signal processing
-         <br>   - Using deep learning to inverse design Metamaterials and Metasurfaces
-         <br>   - Fiber bragg Gratting Sensors (FBGs) 
-         <br>   - Optic Sensors
+         <br>   - Fiber Bragg Gratting sensors (FBGs) 
+         <br>   - Optic sensors and optic comunication
   </ul>
 </div>
 </br>
