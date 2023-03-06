@@ -1,6 +1,7 @@
 <a href="https://www.linkedin.com/in/erfan-dejband/">
   <img align="left" alt="Erfan Dejband LinkedIn" width="22px" src="https://cdn.tomondre.com/icons/linkedinn.svg" />
-  <img align="left" alt="Erfan Dejband LinkedIn" width="50px"  src="https://www.pngkey.com/png/detail/26-268136_website-icon-website-icon-png.png" />
+  <img align="left" alt="Erfan Dejband LinkedIn" width="50px"  src="![image](https://user-images.githubusercontent.com/92718738/223004365-258699dd-b6d6-40c3-aae7-d78255900053.png)
+" />
 </a>
 
 </br>
