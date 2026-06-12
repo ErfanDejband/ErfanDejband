@@ -4,9 +4,9 @@
    <img align="left" alt="Erfan Dejband Website" width="35px" src="https://user-images.githubusercontent.com/92718738/223005819-f6ce4af4-49da-472e-badb-3dbd57b9bd15.png" /> </a>
 
 </br>
-
-<img width="400px" align="right" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
 <h2>⚡️ A Few Quick Facts</h2>
+<img width="400px" align="right" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
+
 <ul>
   <li>🔬 PhD in Electrical Engineering & Computer Science — NTUT (GPA 4.0).</li>
   <li>👨‍💻 More details about me are available on <a href="https://erfandejband.github.io/">my website</a>.</li>
