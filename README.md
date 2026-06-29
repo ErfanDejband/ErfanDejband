@@ -8,7 +8,7 @@
 <img width="400px" align="right" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
 
 <ul>
-  <li>🔬 PhD in Electrical Engineering & Computer Science — NTUT (GPA 4.0).</li>
+  <li>🔬 PhD in Electrical Engineering & Computer Science — NTUT 🎓.</li>
   <li>👨‍💻 More details about me are available on <a href="https://erfandejband.github.io/">my website</a>.</li>
   <li>📝 I am often active on <a href="https://www.linkedin.com/in/erfan-dejband/">LinkedIn</a>.</li>
   
